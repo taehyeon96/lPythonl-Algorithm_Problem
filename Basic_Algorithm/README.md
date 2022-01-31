@@ -1,7 +1,7 @@
 # Collection of basic algorithm
 ## This folder is a collection of basic algorithm which is developed by taehyeon kwon
 
-### Using by Python (& C++ )
+### By using Python (& C++ )
 
 ---
 * 0. Python Basic (A to Z)
@@ -9,6 +9,7 @@
 * 2. Implementation Problem
 * 3. DFS & BFS
 * 4. Sorting Algorithm
+* 5. Binary Search
 
 
 ---
