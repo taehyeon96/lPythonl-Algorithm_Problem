@@ -1,10 +1,10 @@
 # Collection of basic algorithm
 ## This folder is a collection of basic algorithm which is developed by taehyeon kwon
 
-### By using Python (& C++ )
+### Using by Python (& C++ )
 
 ---
-* 0. Python Basic (A to Z)
+* 0. Python Basic
 * 1. Greedy Algorithm
 * 2. Implementation Problem
 * 3. DFS & BFS
