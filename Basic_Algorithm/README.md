@@ -10,10 +10,11 @@
 * 3. DFS & BFS
 * 4. Sorting Algorithm
 * 5. Binary Search
-
+* 6. Dynamic Programming
+* 7. Shortest Path (Dijkstra)
 
 ---
-항상 문제풀기 전에<나중에 지우기>
+항상 문제풀기 전에
 * 정답 조건으로 요구되는게 뭔지 정리 1,2,3...(ex 오름차순, 합계 등)
 * 입력받을 데이터가 무엇들인지 map(int, input().split()) 또는 .append(list(map(int, input().split()))) 등
 * 사용될 변수들이 뭐가 있는지 생각 후 선언 & 초기화
