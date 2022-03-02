@@ -7,12 +7,15 @@
   - https://covenant.tistory.com/141
 * 용감하게 시작하는 코딩테스트 2편 (Pythonic한 코드 작성법-중간) (V)
   - https://covenant.tistory.com/142
-* 용감하게 시작하는 코딩테스트 3편 (Pythonic한 코드 작성법-심화) ()
+* 용감하게 시작하는 코딩테스트 3편 (Pythonic한 코드 작성법-심화) (V)
   - https://covenant.tistory.com/143
 
 ---
 * 엔지니어대한민국 : 기본 뼈대 알고리즘 및 자료구조 공부할 것 ( )
   - https://www.youtube.com/user/damazzang/playlists
+  
+* SKT T아카데미 토크온 알고리즘 문제풀의 유튜브 강의 with.백준 ( )
+  - https://www.youtube.com/playlist?list=PL9mhQYIlKEhfg0aLdaO04wYUovLMXY4DU
   
 * 위 과정들 끝내면 다음 내용 읽고 후 아래 백준문제 추천 문제들 풀기 시작할 것. ( )
   - https://covenant.tistory.com/220
