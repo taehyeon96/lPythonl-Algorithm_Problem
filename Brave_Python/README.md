@@ -37,3 +37,7 @@
 
 * 코딩테스트 고득점 kit ( )
   - https://covenant.tistory.com/145
+
+* 로욜라에서 [파이썬 알고리즘 인터뷰 : 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트] 책 대여해서 피요한 문제 풀어보기 ( )
+  - https://library.sogang.ac.kr/search/detail/CAT000000889729
+  - 
