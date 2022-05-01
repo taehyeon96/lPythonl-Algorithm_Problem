@@ -11,26 +11,25 @@
   - https://covenant.tistory.com/143
 
 ---
-* 엔지니어대한민국 : 기본 뼈대 알고리즘 및 자료구조 공부할 것 ( )
-  - https://www.youtube.com/user/damazzang/playlists
-  
-* SKT T아카데미 토크온 알고리즘 문제풀의 유튜브 강의 with.백준 ( )
-  - https://www.youtube.com/playlist?list=PL9mhQYIlKEhfg0aLdaO04wYUovLMXY4DU
-  
+
 * 위 과정들 끝내면 다음 내용 읽고 후 아래 백준문제 추천 문제들 풀기 시작할 것. ( )
   - https://covenant.tistory.com/220
 
 * 코딩테스트 시작을 위한 백준 문제 추천 (기본 유형 정리) ( )
   - https://covenant.tistory.com/234?category=727170
 
+* 주제별 학습 :
+  - 이진탐색 설명 및 백준 ( )
+  - https://covenant.tistory.com/133
+  - DFS BFS 설명 및 백준 ( )
+  - https://covenant.tistory.com/132
+  - 그리디 알고리즘 설명 및 백준 ( )
+  - https://covenant.tistory.com/131
+  - 백트래킹 설몇 및 백준 ( )
+  - https://covenant.tistory.com/123
+
 * 거침없는 코딩테스트 DFS BFS 문제 추천 (백준) ( )
   - https://covenant.tistory.com/147?category=874690
-
-* 백트래킹 설명 및 백준 문제 추천 ( )
-  - https://covenant.tistory.com/123?category=727170
-
-* 그리디 알고리즘 설명 민 백준 문제 추천 ( )
-  - https://covenant.tistory.com/131?category=727170
 
 * 코딩테스트 대비를 위한 백준 문제 추천 (기본부터 빈출유형까지 - 약 50문제) ( )
   - https://covenant.tistory.com/224
@@ -50,3 +49,14 @@
 
 * Hacker Rank SQL ( )
   - https://www.hackerrank.com/domains/sql
+
+---
+
+## 참고
+
+* 엔지니어대한민국 : 기본 뼈대 알고리즘 및 자료구조 공부할 것 ( )
+  - https://www.youtube.com/user/damazzang/playlists
+  
+* SKT T아카데미 토크온 알고리즘 문제풀의 유튜브 강의 with.백준 ( )
+  - https://www.youtube.com/playlist?list=PL9mhQYIlKEhfg0aLdaO04wYUovLMXY4DU
+  
