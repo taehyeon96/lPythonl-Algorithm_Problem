@@ -1,2 +1,1 @@
-백준 문제만 Auto Commit으로 인한 레포지토리 이전
-https://github.com/taehyeon96/lPythonl-BaekJoon_AutoCommit.git
+백준 문제만 Auto Commit을 적용하여 폴더 이전하였음
