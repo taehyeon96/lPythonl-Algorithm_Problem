@@ -1,16 +1,10 @@
-a = input().split('-')          # '-'로 split()해서 큼직큼직 잘라줌 = 괄호 작업!!!
-num = []
+arr = input().split('-')
+s = 0
 
-for i in a:
-    cnt = 0
-    s = i.split('+')           # (  )로 묶인 것에 대해서    
-    for j in s:               # sum()을 해줌
-        cnt += int(j)
-        
-    num.append(cnt)            # sum()한 각 숫자를 리스트에 저장
+for i in arr[0].split('+'):
+    s += int(i)
     
-n = num[0]                     # sum()한 것 중 첫 번째 값에서 나머지 전부 빼줄거
-for i in range(1, len(num)):
-    n -= num[i]
-    
-print(n)
+for i in arr[1:]:
+    for j in i.split('+'):
+        s -= int(j)
+print(s)
