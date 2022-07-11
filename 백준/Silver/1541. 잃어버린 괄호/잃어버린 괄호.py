@@ -1,25 +1,16 @@
-import sys
-arr = sys.stdin.readline()
-leng = len(arr)
+a = input().split('-')          # '-'로 split()해서 큼직큼직 잘라줌 = 괄호 작업!!!
+num = []
 
-num = '-1'
-plus = 0
-minus = 0
-
-for i in range(leng-1, -1, -1):
-    if arr[i].isdigit():
-        if num == '-1':                 # 숫자 처음인 경우
-            num = str(arr[i])
-        else:                           # 처음이 아닌 경우
-            num = str(arr[i]) + num
-            
-    else:
-        if arr[i] == '+':
-            plus += int(num)
-            num = '-1'                  # 숫자 처음으로
-        elif arr[i] == '-':
-            minus += int(num) + plus   # 현재 숫자와 히스토리(plus)를 더해줌
-            plus = 0
-            num = '-1'                  # 숫자 처음으로
-
-print(plus + int(num)-minus)
+for i in a:
+    cnt = 0
+    s = i.split('+')           # (  )로 묶인 것에 대해서    
+    for j in s:               # sum()을 해줌
+        cnt += int(j)
+        
+    num.append(cnt)            # sum()한 각 숫자를 리스트에 저장
+    
+n = num[0]                     # sum()한 것 중 첫 번째 값에서 나머지 전부 빼줄거
+for i in range(1, len(num)):
+    n -= num[i]
+    
+print(n)
